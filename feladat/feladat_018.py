@@ -8,4 +8,3 @@ while szo != '':
   
 print('Program vége!')    
 
-
